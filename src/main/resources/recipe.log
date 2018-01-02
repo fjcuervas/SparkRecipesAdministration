@@ -1,4 +1,0 @@
-/*C3*/SET SCHEMA PUBLIC
-DELETE FROM RECIPE WHERE ID=4
-INSERT INTO RECIPE VALUES(4,'Delicious fish soup with good grass','Fish soup')
-COMMIT
